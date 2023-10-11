@@ -1,4 +1,3 @@
-import { resolve } from 'path/posix';
 import { lazy } from 'react';
 
 export const MainPageAsync = lazy(() => new Promise((resolve) => {
