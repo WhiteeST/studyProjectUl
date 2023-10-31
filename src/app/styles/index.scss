@@ -18,3 +18,8 @@
     flex-grow: 1;
     padding: 20px;
 }
+
+// отключает отоброжение react-refresh-overlay при ошибке
+#react-refresh-overlay {
+    display: none;
+}
